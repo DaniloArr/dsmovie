@@ -28,6 +28,7 @@ O DSMovie é uma aplicação full stack web que tem como objetivo ser um catálo
 - ReactJS
 
 ## Implantação em produção
+- API: Postman
 - Back end: Heroku
 - Front end web: Netlify
 - Banco de dados: Postgresql
