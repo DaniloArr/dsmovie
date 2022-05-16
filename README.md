@@ -1,6 +1,4 @@
 
-# DS Movie
-
 ![Logo of the project](https://github.com/DaniloArr/dsmovie/blob/main/images-readme/logo.png)
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DaniloArr/dsmovie/blob/main/LICENSE) 
